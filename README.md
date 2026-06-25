@@ -1,5 +1,1 @@
-using hydra for interactive installations, 
-
-changing variables/code based on external inputs 
-
-and python script to generate keyboard presses to trigger events and control OBS 
+using hydra for realtime video installation. python script to simulate keyboard press, javascript and obs reading keypresses to change code/videos automatically
